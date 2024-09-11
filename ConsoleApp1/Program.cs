@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello Again");
             Console.WriteLine("Checking Commit");
+            Console.WriteLine("Another Commit");
         }
     }
 }
